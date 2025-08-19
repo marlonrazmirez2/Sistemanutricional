@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 class Comida {
-    private String tipo; // desayuno, almuerzo, cena, merienda
+    private String tipo;
     private List<Porcion> porciones;
 
     public Comida(String tipo) {
